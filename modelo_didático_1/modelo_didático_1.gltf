@@ -1,0 +1,420 @@
+{
+	"asset": {
+		"generator": "SOLIDWORKSGLTF",
+		"version" : "2.0"
+	},
+"extensionsUsed": [ "KHR_lights_punctual", "Solidworks_custom_properties" ],
+	"scene" : 0,
+	"scenes": [
+		{
+			"name": "Valor predeterminado - <Valor predeterminado>_Aparencia Estado de exibicao",
+			"nodes": [
+				11, 12, 13]
+		}
+	],
+	"nodes": [
+		{
+			"matrix": [
+				0.935414,					0,					-0.353553,					0,
+				-0.117851,					0.942809,					-0.311805,					0,
+				0.333333,					0.333333,					0.881917,					0,
+				0.0786166,					0.0786166,					0.208,					1
+			]
+			,"camera": 0
+			,"name": "current"		}
+,
+		{
+			"matrix": [
+				1,					0,					0,					0,
+				0,					1,					0,					0,
+				0,					0,					1,					0,
+				0,					1.66533e-15,					0.23585,					1
+			]
+			,"camera": 1
+			,"name": "*Normal a"		}
+,
+		{
+			"matrix": [
+				1,					0,					0,					0,
+				0,					1,					0,					0,
+				0,					0,					1,					0,
+				0,					1.66533e-15,					0.23585,					1
+			]
+			,"camera": 2
+			,"name": "*Frontal"		}
+,
+		{
+			"matrix": [
+				-1,					0,					0,					0,
+				0,					1,					0,					0,
+				0,					0,					-1,					0,
+				0,					1.66533e-15,					-0.23585,					1
+			]
+			,"camera": 3
+			,"name": "*Posterior"		}
+,
+		{
+			"matrix": [
+				0,					0,					1,					0,
+				0,					1,					0,					0,
+				-1,					0,					0,					0,
+				-0.23585,					1.66533e-15,					0,					1
+			]
+			,"camera": 4
+			,"name": "*Esquerda"		}
+,
+		{
+			"matrix": [
+				0,					0,					-1,					0,
+				0,					1,					0,					0,
+				1,					0,					0,					0,
+				0.23585,					1.66533e-15,					0,					1
+			]
+			,"camera": 5
+			,"name": "*Direita"		}
+,
+		{
+			"matrix": [
+				1,					0,					0,					0,
+				0,					0,					-1,					0,
+				0,					1,					0,					0,
+				0,					0.23585,					-1.66533e-15,					1
+			]
+			,"camera": 6
+			,"name": "*Superior"		}
+,
+		{
+			"matrix": [
+				1,					0,					0,					0,
+				0,					0,					1,					0,
+				0,					-1,					0,					0,
+				0,					-0.23585,					1.66533e-15,					1
+			]
+			,"camera": 7
+			,"name": "*Inferior"		}
+,
+		{
+			"matrix": [
+				0.707107,					0,					-0.707107,					0,
+				-0.408204,					0.816541,					-0.408204,					0,
+				0.577382,					0.577288,					0.577382,					0,
+				0.136175,					0.136153,					0.136175,					1
+			]
+			,"camera": 8
+			,"name": "*Isometrica"		}
+,
+		{
+			"matrix": [
+				0.884418,					0,					-0.466695,					0,
+				-0.240366,					0.857167,					-0.455509,					0,
+				0.400036,					0.515038,					0.758094,					0,
+				0.0943484,					0.121472,					0.178796,					1
+			]
+			,"camera": 9
+			,"name": "*Trimetrica"		}
+,
+		{
+			"matrix": [
+				0.935414,					0,					-0.353553,					0,
+				-0.117851,					0.942809,					-0.311805,					0,
+				0.333333,					0.333333,					0.881917,					0,
+				0.0786166,					0.0786166,					0.208,					1
+			]
+			,"camera": 10
+			,"name": "*Dimetrica"		}
+,
+		{
+			"mesh": 0
+			,"name": "Modelo didatico 1.SLDPRT"		}
+,
+		{
+			"matrix": [
+				0.827081,					0.552127,					-0,					0,
+				0.0581522,					-0.0871114,					-0.988907,					0,
+				-0.552127,					0.827081,					-0.105324,					0,
+				0.30512,					0.457066,					0.0582047,					1
+			]
+			,"extensions" : {
+				"KHR_lights_punctual" : {
+					"light" : 0
+				}
+			}
+			,"name": "LightNode_Direcional3"		}
+,
+		{
+			"matrix": [
+				0.480989,					0.116256,					-0,					0,
+				0.101025,					-0.417972,					-0.244866,					0,
+				-0.116256,					0.480989,					-0.868985,					0,
+				0.0642461,					0.265807,					0.480224,					1
+			]
+			,"extensions" : {
+				"KHR_lights_punctual" : {
+					"light" : 1
+				}
+			}
+			,"name": "LightNode_Direcional4"		}
+	],
+	"cameras": [
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+,
+		{
+			"type": "perspective",
+			"perspective" : {
+				"aspectRatio": 1.91192,
+				"yfov" : 1.19021,
+				"zfar" : 100,
+				"znear" : 0.01
+			}
+		}
+	],
+	"extensions": {
+		"KHR_lights_punctual" : {
+			"lights": [
+				{
+					"color" : [
+						0.4,
+						0.4,
+						0.4
+					],
+					"type" : "directional"
+				},
+				{
+					"color" : [
+						0.52,
+						0.52,
+						0.52
+					],
+					"type" : "directional"
+				}
+			]
+		}
+	},
+	"meshes" : [
+		{
+			"primitives" : [
+				{
+					"attributes" : {
+					"POSITION" : 1,
+					"NORMAL" : 2,
+					"TEXCOORD_0" : 3
+					},
+					"indices" : 0,
+					"mode": 4,
+					"material" : 1
+				}
+			]
+		}
+	],
+	"accessors" : [
+			{
+				"bufferView": 3
+				,"byteOffset" : 0
+				,"componentType" : 5123
+				,"count" : 60
+				,"type" : "SCALAR"
+			},
+			{
+				"bufferView": 0
+				,"byteOffset" : 0
+				,"componentType" : 5126
+				,"count" : 60
+				,"type" : "VEC3"
+				,"min" : [-1.79999992e-02, -8.99999961e-03, -2.70000007e-02]
+				,"max" : [1.79999992e-02, 8.99999961e-03, 2.70000007e-02]
+			},
+			{
+				"bufferView": 1
+				,"byteOffset" : 0
+				,"componentType" : 5126
+				,"count" : 60
+				,"type" : "VEC3"
+			},
+			{
+				"bufferView": 2
+				,"byteOffset" : 0
+				,"componentType" : 5126
+				,"count" : 60
+				,"type" : "VEC2"
+			}
+	],
+	"materials": [
+			{
+				"pbrMetallicRoughness": {
+					"baseColorFactor": [
+						0.498039, 0.498039, 0.498039, 1
+					]
+					,"metallicFactor": 0
+					,"roughnessFactor": 1
+				}
+			},
+			{
+				"name": "White-PW-MT11050"
+					,"normalTexture": {
+						"index": 0
+						,"scale": 0.3
+					}
+				,"pbrMetallicRoughness": {
+					"baseColorFactor": [
+						0.698039, 0.698039, 0.698039, 1
+					]
+					,"metallicFactor": 0
+					,"roughnessFactor": 1
+				}
+			}
+	],
+	"textures": [
+			{
+				"sampler": 0,
+				"source": 0,
+				"name": "n_PlasticPolystyrene_normalmap.png"
+			}
+	],
+	"images": [
+			{
+				"uri": "n_PlasticPolystyrene_normalmap.png"
+			}
+	],
+	"samplers": [
+			{
+				"magFilter": 9729,
+				"minFilter" : 9729,
+				"wrapS" : 10497,
+				"wrapT" : 10497,
+				"name": "DefaultSampler"
+			}
+	],
+	"bufferViews" : [
+			{
+				"buffer": 0
+				,"byteOffset" : 0
+				,"byteLength" : 720
+				,"byteStride" : 12
+				,"target" : 34962
+			},
+			{
+				"buffer": 0
+				,"byteOffset" : 720
+				,"byteLength" : 720
+				,"byteStride" : 12
+				,"target" : 34962
+			},
+			{
+				"buffer": 0
+				,"byteOffset" : 1440
+				,"byteLength" : 480
+				,"byteStride" : 8
+				,"target" : 34962
+			},
+			{
+				"buffer": 0
+				,"byteOffset" : 1920
+				,"byteLength" : 120
+				,"target" : 34963
+			}
+	],
+	"buffers" : [
+			{
+				"byteLength": 2040
+				,"uri" : "Modelo_didatico_1.SLDPRT-1-2-3-4-5-6.bin"
+			}
+	]
+}
